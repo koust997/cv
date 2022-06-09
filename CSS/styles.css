@@ -1,0 +1,19 @@
+img {
+  border-radius: 50%;
+}
+body{
+  background-color: #FCF9C6;
+}
+hr{
+  background-color: orange;
+  border-top-style: dotted none none none ;
+  border-color: yellow;
+  height: 0px;
+  width: 20%;
+}
+h1{
+  color: #66BFBF
+}
+h3{
+  color: #66BFBF
+}
